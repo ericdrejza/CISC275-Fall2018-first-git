@@ -3,7 +3,7 @@
 	- Done
 
 2. What five objects are created in the main?
-	- One List of type Dog, three Dog objects, and a Comparator<Animal>.
+	- One ArrayList of type Dog, three Dog objects, and a Comparator<Animal>.
 
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 	- The comparator contructor is called in the sort argument list and the class definition is in the body of the after the constructor but still within the sort.
